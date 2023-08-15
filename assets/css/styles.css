@@ -785,3 +785,9 @@ html {
 #experience {
   margin-bottom: 40px;
 }
+
+.skills__img.mat {
+    height: 700px;
+    width: 500px;
+    margin-top: 29px;
+}
